@@ -10,6 +10,11 @@ Two other **tutorial code** for **concept drift, online machine learning, and da
 ## Abstract of The Paper
 Industry 5.0 aims at maximizing the collaboration between humans and machines. Machines are capable of automating repetitive jobs, while humans handle creative tasks. As a critical component of Industrial Internet of Things (IIoT) systems for service delivery, network data stream analytics often encounter concept drift issues due to dynamic IIoT environments, causing performance degradation and automation difficulties. In this paper, we propose a novel Multi-Stage Automated Network Analytics (MSANA) framework for concept drift adaptation in IIoT systems, consisting of dynamic data pre-processing, the proposed Drift-based Dynamic Feature Selection (DD-FS) method, dynamic model learning & selection, and the proposed Window-based Performance Weighted Probability Averaging Ensemble (W-PWPAE) model. It is a complete automated data stream analytics framework that enables automatic, effective, and efficient data analytics for IIoT systems in Industry 5.0. Experimental results on two public IoT datasets demonstrate that the proposed framework outperforms state-of-the-art methods for IIoT data stream analytics. 
 
+## Concept Drift
+In non-stationary and dynamical environments, such as IoT environments, the distribution of input data often changes over time, known as concept drift. The occurrence of concept drift will result in the performance degradation of the current trained data analytics model. Traditional offline machine learning (ML) models cannot deal with concept drift, making it necessary to develop online adaptive analytics models that can adapt to the predictable and unpredictable changes in data streams. 
+
+To address concept drift, effective methods should be able to detect concept drift and adapt to the changes accordingly. Therefore, concept drift detection and adaptation are the two major steps for online learning on data streams.
+
 ## Implementation 
 
 ### AutoML Pipeline and Procedures
@@ -30,8 +35,8 @@ Industry 5.0 aims at maximizing the collaboration between humans and machines. M
    * Concept Drift Detection
 
 ### Online Learning/Concept Drift Adaptation Algorithms  
-* Adaptive Random Forest (ARF) with ADWIN drift detector
-* Adaptive Random Forest (ARF) with EDDM drift detector
+* Adaptive Random Forest (ARF) with ADWIN drift detector (ARF-ADWIN)
+* Adaptive Random Forest (ARF) with EDDM drift detector (ARF-EDDM)
 * Streaming Random Patches (SRP)
 * Extremely Fast Decision Tree (EFDT)
 * K-Nearest Neighbors (KNN) classifier with ADWIN change detector (KNN-ADWIN)
@@ -39,9 +44,9 @@ Industry 5.0 aims at maximizing the collaboration between humans and machines. M
 * Online Passive-Aggressive (OPA)
 * Leveraging Bagging (LB)
 * Performance Weighted Probability Averaging Ensemble (PWPAE)
-  * Proposed in the previous work
+  * Proposed in the [previous work](https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation)
 * Window-based Performance Weighted Probability Averaging Ensemble (W-PWPAE)
-  * Proposed
+  * Proposed in this work
 
 ### Drift Detection Algorithms
 * Adaptive Windowing (ADWIN)
@@ -61,7 +66,6 @@ Industry 5.0 aims at maximizing the collaboration between humans and machines. M
 ### Requirements & Libraries  
 * Python 3.6+
 * [Scikit-learn](https://scikit-learn.org/stable/)  
-* [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
 * [River](https://riverml.xyz/dev/)
 
 ## Contact-Info
@@ -74,7 +78,7 @@ Please feel free to contact me for any questions or cooperation opportunities. I
 ## Citation
 If you find this repository useful in your research, please cite this article as:  
 
-L. Yang and A. Shami, “A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems,” *IEEE Transactions on Industrial Informatics*, 2022.  
+L. Yang and A. Shami, “A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems,” *IEEE Transactions on Industrial Informatics*, pp. 1-10, 2022.  
 
 ```
 @article{YANG20221818,
