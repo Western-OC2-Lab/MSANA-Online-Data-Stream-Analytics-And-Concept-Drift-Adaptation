@@ -1,6 +1,6 @@
 # MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation
 
-This repository contains the code for the paper entitled "**[A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems]()**" published in **IEEE Transactions on Industrial Informatics** (Q1, IF: 11.648).  
+This repository contains the code for the paper entitled "**[A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems](https://ieeexplore.ieee.org/document/9910406)**" published in **IEEE Transactions on Industrial Informatics** (Q1, IF: 11.648), doi: [10.1109/TII.2022.3212003](https://ieeexplore.ieee.org/document/9910406).  
 Authors: Li Yang and Abdallah Shami  
 Organization: The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University
 
@@ -78,13 +78,16 @@ Please feel free to contact me for any questions or cooperation opportunities. I
 ## Citation
 If you find this repository useful in your research, please cite this article as:  
 
-L. Yang and A. Shami, “A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems,” *IEEE Transactions on Industrial Informatics*, pp. 1-10, 2022.  
+L. Yang and A. Shami, “A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems,” *IEEE Transactions on Industrial Informatics*, pp. 1-10, 2022, doi: 10.1109/TII.2022.3212003.  
 
 ```
-@article{YANG20221818,
-title = "A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems",
-author = "Li Yang and Abdallah Shami",
-journal = "IEEE Transactions on Industrial Informatics",
-pages = {1-10},
-year = "2022",
-}
+@ARTICLE{9910406,
+  author={Yang, Li and Shami, Abdallah},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={10.1109/TII.2022.3212003}}
+```
