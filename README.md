@@ -1,11 +1,15 @@
 # MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation
 
-This repository contains the code for the paper entitled "**[A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems](https://ieeexplore.ieee.org/document/9910406)**" published in **IEEE Transactions on Industrial Informatics** (Q1, IF: 11.648), doi: [10.1109/TII.2022.3212003](https://ieeexplore.ieee.org/document/9910406).  
+This repository contains the code for the paper entitled "**[A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems](https://arxiv.org/pdf/2210.01985.pdf)**" published in **IEEE Transactions on Industrial Informatics** (Q1, IF: 11.648), doi: [10.1109/TII.2022.3212003](https://ieeexplore.ieee.org/document/9910406).  
 Authors: Li Yang and Abdallah Shami  
 Organization: The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University
 
 In this work, we propose a comprehensive online learning framework for data stream analytics and concept drift adaptation in dynamic environments.  
 Two other **tutorial code** for **concept drift, online machine learning, and data stream analytics** can be found in: [PWPAE-Concept-Drift-Detection-and-Adaptation](https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation) and [OASW-Concept-Drift-Detection-and-Adaptation](https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation)
+
+## Paper Link
+[Open access version on arXiv](https://arxiv.org/pdf/2210.01985.pdf)  
+[Published version on IEEE](https://ieeexplore.ieee.org/document/9910406)  
 
 ## Abstract of The Paper
 Industry 5.0 aims at maximizing the collaboration between humans and machines. Machines are capable of automating repetitive jobs, while humans handle creative tasks. As a critical component of Industrial Internet of Things (IIoT) systems for service delivery, network data stream analytics often encounter concept drift issues due to dynamic IIoT environments, causing performance degradation and automation difficulties. In this paper, we propose a novel Multi-Stage Automated Network Analytics (MSANA) framework for concept drift adaptation in IIoT systems, consisting of dynamic data pre-processing, the proposed Drift-based Dynamic Feature Selection (DD-FS) method, dynamic model learning & selection, and the proposed Window-based Performance Weighted Probability Averaging Ensemble (W-PWPAE) model. It is a complete automated data stream analytics framework that enables automatic, effective, and efficient data analytics for IIoT systems in Industry 5.0. Experimental results on two public IoT datasets demonstrate that the proposed framework outperforms state-of-the-art methods for IIoT data stream analytics. 
