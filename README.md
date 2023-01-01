@@ -82,16 +82,16 @@ Please feel free to contact me for any questions or cooperation opportunities. I
 ## Citation
 If you find this repository useful in your research, please cite this article as:  
 
-L. Yang and A. Shami, “A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems,” *IEEE Transactions on Industrial Informatics*, pp. 1-10, 2022, doi: 10.1109/TII.2022.3212003.  
+L. Yang and A. Shami, “A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems,” *IEEE Transactions on Industrial Informatics*, vol. 19, no. 2, pp. 2107-2116, Feb. 2023, doi: 10.1109/TII.2022.3212003.  
 
 ```
 @ARTICLE{9910406,
   author={Yang, Li and Shami, Abdallah},
   journal={IEEE Transactions on Industrial Informatics}, 
   title={A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-10},
+  year={2023},
+  volume={19},
+  number={2},
+  pages={2107-2116},
   doi={10.1109/TII.2022.3212003}}
 ```
