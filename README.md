@@ -68,16 +68,16 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-3fb71f896836.js"></script>
   
 
-  <title>PWPAE-Concept-Drift-Detection-and-Adaptation/README.md at main · Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation</title>
+  <title>MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/README.md at 8204a94957ff1eb2d60ac98bd69fb87aac8badbd · Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation</title>
 
 
 
     
 
-  <meta name="request-id" content="1843:1A86:2FAEF8F:47C3C46:63BE3822" data-turbo-transient="true" /><meta name="html-safe-nonce" content="be4341bed8606fe5a702d02ced1eeeacfbcba5d1792e10909bad9c6a47821700" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9XZXN0ZXJuLU9DMi1MYWIvUFdQQUUtQ29uY2VwdC1EcmlmdC1EZXRlY3Rpb24tYW5kLUFkYXB0YXRpb24vdHJlZS9tYWluL2xpYnJhcmllcyIsInJlcXVlc3RfaWQiOiIxODQzOjFBODY6MkZBRUY4Rjo0N0MzQzQ2OjYzQkUzODIyIiwidmlzaXRvcl9pZCI6IjE2ODY0MjQ3MjE1MTg5Mjc1NjgiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="bbcbac0104ce8f866ca57872e7625066fcc3271aefeaa4377ba88182cf80d557" data-turbo-transient="true" />
+  <meta name="request-id" content="1843:1A86:2FBF935:47DBA9E:63BE38FA" data-turbo-transient="true" /><meta name="html-safe-nonce" content="be4341bed8606fe5a702d02ced1eeeacfbcba5d1792e10909bad9c6a47821700" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9XZXN0ZXJuLU9DMi1MYWIvTVNBTkEtT25saW5lLURhdGEtU3RyZWFtLUFuYWx5dGljcy1BbmQtQ29uY2VwdC1EcmlmdC1BZGFwdGF0aW9uL3RyZWUvODIwNGE5NDk1N2ZmMWViMmQ2MGFjOThiZDY5ZmI4N2FhYzhiYWRiZCIsInJlcXVlc3RfaWQiOiIxODQzOjFBODY6MkZCRjkzNTo0N0RCQTlFOjYzQkUzOEZBIiwidmlzaXRvcl9pZCI6IjE2ODY0MjQ3MjE1MTg5Mjc1NjgiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="00de126e6c1bcaeaa18cffca1e1163a9b6879dc0a86c73d230069408e9f872bc" data-turbo-transient="true" />
 
 
-    <meta name="hovercard-subject-tag" content="repository:396987143" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:544082840" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -108,16 +108,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Data stream analytics: Implement online learning methods to address concept drift in data streams using the River library. Code for the paper entitled &quot;PWPAE: An Ensemble Framework for Concept Drift Adaptation in IoT Data Streams&quot; published in IEEE GlobeCom 2021. - PWPAE-Concept-Drift-Detection-and-Adaptation/README.md at main · Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation">
+      <meta name="description" content="Data stream analytics: Implement online learning methods to address concept drift in dynamic data streams. Code for the paper entitled &quot;A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems&quot; published in IEEE Transactions on Industrial Informatics. - MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/README.md at 8204a94957ff1eb2d60ac98bd69fb87aac8badbd · Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/cf06cf0571e957e602be555e5c81b89802ad096231234cd46873ea230e27db49/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="PWPAE-Concept-Drift-Detection-and-Adaptation/README.md at main · Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation" /><meta name="twitter:description" content="Data stream analytics: Implement online learning methods to address concept drift in data streams using the River library. Code for the paper entitled &amp;amp;quot;PWPAE: An Ensemble Framework for Con..." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/cf06cf0571e957e602be555e5c81b89802ad096231234cd46873ea230e27db49/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation" /><meta property="og:image:alt" content="Data stream analytics: Implement online learning methods to address concept drift in data streams using the River library. Code for the paper entitled &amp;quot;PWPAE: An Ensemble Framework for Concept..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="PWPAE-Concept-Drift-Detection-and-Adaptation/README.md at main · Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation" /><meta property="og:url" content="https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation" /><meta property="og:description" content="Data stream analytics: Implement online learning methods to address concept drift in data streams using the River library. Code for the paper entitled &amp;quot;PWPAE: An Ensemble Framework for Concept..." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f5f627f19e979c179b1a0d61952899aed1d448d181f247447cf2c19ea3ceaa41/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/README.md at 8204a94957ff1eb2d60ac98bd69fb87aac8badbd · Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation" /><meta name="twitter:description" content="Data stream analytics: Implement online learning methods to address concept drift in dynamic data streams. Code for the paper entitled &amp;amp;quot;A Multi-Stage Automated Online Network Data Stream A..." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/f5f627f19e979c179b1a0d61952899aed1d448d181f247447cf2c19ea3ceaa41/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation" /><meta property="og:image:alt" content="Data stream analytics: Implement online learning methods to address concept drift in dynamic data streams. Code for the paper entitled &amp;quot;A Multi-Stage Automated Online Network Data Stream Analy..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/README.md at 8204a94957ff1eb2d60ac98bd69fb87aac8badbd · Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation" /><meta property="og:url" content="https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation" /><meta property="og:description" content="Data stream analytics: Implement online learning methods to address concept drift in dynamic data streams. Code for the paper entitled &amp;quot;A Multi-Stage Automated Online Network Data Stream Analy..." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/24592238/ws?session=eyJ2IjoiVjMiLCJ1IjoyNDU5MjIzOCwicyI6OTU3ODMxODQyLCJjIjoyNjM2NzYyNjg3LCJ0IjoxNjczNDEwNTk5fQ==--4529766361e7cd1323d9283944e9307982e84caa17123f5e3699bc0af6d47e76" data-refresh-url="/_alive" data-session-id="0ed922f347012459fa7ae0e58cb83b5b3278a59b41457bd01965aa3b7527aa5c">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/24592238/ws?session=eyJ2IjoiVjMiLCJ1IjoyNDU5MjIzOCwicyI6OTU3ODMxODQyLCJjIjozNzQ4OTU1NTMwLCJ0IjoxNjczNDEwODM3fQ==--fd946f414bf577cd21112638322ae7fb656edf197dab9e2675c225e7a77b79e5" data-refresh-url="/_alive" data-session-id="0ed922f347012459fa7ae0e58cb83b5b3278a59b41457bd01965aa3b7527aa5c">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -141,13 +141,13 @@
 
         <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation git https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation.git">
+  <meta name="go-import" content="github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation git https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation.git">
 
-  <meta name="octolytics-dimension-user_id" content="75855518" /><meta name="octolytics-dimension-user_login" content="Western-OC2-Lab" /><meta name="octolytics-dimension-repository_id" content="396987143" /><meta name="octolytics-dimension-repository_nwo" content="Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="396987143" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation" />
+  <meta name="octolytics-dimension-user_id" content="75855518" /><meta name="octolytics-dimension-user_login" content="Western-OC2-Lab" /><meta name="octolytics-dimension-repository_id" content="544082840" /><meta name="octolytics-dimension-repository_nwo" content="Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="544082840" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation" />
 
 
 
-    <link rel="canonical" href="https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -219,7 +219,7 @@
 <div class="header-search flex-auto position-relative js-site-search flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="396987143" data-scoped-search-url="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/search" data-owner-scoped-search-url="/orgs/Western-OC2-Lab/search" data-unscoped-search-url="/search" data-turbo="false" action="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="544082840" data-scoped-search-url="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/search" data-owner-scoped-search-url="/orgs/Western-OC2-Lab/search" data-unscoped-search-url="/search" data-turbo="false" action="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable"
@@ -240,7 +240,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="2KoEe_kbb-fz749ZjypT8lp6j6v9C7QiTT6jbNRig7DLZOlwKVoCRX7p5wliPxqHMenCNZy9RCZGCRTxQpOpeA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="khpjmgMsJVh8iDLyVk4jhjefWHGFJ6nnuTloBSU9hwGB1I6R021I-vGOWqK7W2rzXAwV7-SRWeOyDt-Ys8ytyQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -439,7 +439,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;LiYangHart&quot;,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="0c1da59ff7cfad8e5ab85f3c343c005704922304331d75f56ca52c157b3cb168" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;LiYangHart&quot;,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="56ed724e9727a06e787d64a33c063c3d99916f11b2105fbad16aaf482cb77f64" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -447,7 +447,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/24592238?s=40&amp;v=4" width="20" height="20" alt="@LiYangHart" />
       LiYangHart
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="59Z0Pe1LiEabfqQEgLRCi_d2CVFWstOXQCM6LHVqj_1UML4vqhJyb27C9KHsoDnWKu5hog6cayHB5banRkGp8g" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="c-giP7QevUaAv-D2TAgPTqsGG6FF2Lz5FlBPk8sG66rADugt80dHb3UDsFMgHHQTdp5zUh32BE-XlsMY-C3NpQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -482,7 +482,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MjQ1OTIyMzgiLCJ0IjoxNjczNDEwNTk5fQ==--b9967b0dbd99beb619d795d4d25d1aebd46d9335d3dda599b5d5935de6e4540b" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MjQ1OTIyMzgiLCJ0IjoxNjczNDEwODM3fQ==--04dd58c5269ae71e5d1cafac28d364bb3aef1e794ff1038ce7d143f8e5bf668c" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -653,7 +653,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md
+      return-to=/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md
       user-id="24592238"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -766,14 +766,14 @@
                 style="white-space:nowrap;line-height:20px;"
                 >Western-OC2-Lab<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="PWPAE-Concept-Drift-Detection-and-Adaptation"
-                data-id="MDEwOlJlcG9zaXRvcnkzOTY5ODcxNDM="
+                data-text="MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation"
+                data-id="R_kgDOIG4LmA"
                 data-type="repository"
-                data-value="PWPAE-Concept-Drift-Detection-and-Adaptation"
+                data-value="MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >PWPAE-Concept-Dri...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >MSANA-Online-Data...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -815,7 +815,7 @@
       </command-palette-input>
 
       <command-palette-page-stack
-        data-default-scope-id="MDEwOlJlcG9zaXRvcnkzOTY5ODcxNDM="
+        data-default-scope-id="R_kgDOIG4LmA"
         data-default-scope-type="Repository"
         data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons"
       >
@@ -1243,8 +1243,8 @@
             >
             </command-palette-page>
             <command-palette-page
-              data-page-title="PWPAE-Concept-Drift-Detection-and-Adaptation"
-              data-scope-id="MDEwOlJlcG9zaXRvcnkzOTY5ODcxNDM="
+              data-page-title="MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation"
+              data-scope-id="R_kgDOIG4LmA"
               data-scope-type="repository"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -1261,8 +1261,8 @@
           >
           </command-palette-page>
           <command-palette-page
-            data-page-title="PWPAE-Concept-Drift-Detection-and-Adaptation"
-            data-scope-id="MDEwOlJlcG9zaXRvcnkzOTY5ODcxNDM="
+            data-page-title="MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation"
+            data-scope-id="R_kgDOIG4LmA"
             data-scope-type="repository"
           >
           </command-palette-page>
@@ -1599,7 +1599,7 @@
     </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation">PWPAE-Concept-Drift-Detection-and-Adaptation</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation">MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1619,7 +1619,7 @@
 </svg>Edit Pins
           <span class="dropdown-caret"></span>
 </summary>        <details-menu class="SelectMenu" role="menu">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="pin-organization-repo-update-form" data-target="pin-organization-repo.form" data-turbo="false" action="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/pin_organization_repo" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dfyEJu3Y1NAmGgiO6PMKxMWD1uJjgsIsqxvEv7lDBbiQo8hM7GVo347KSkIcKciHeaa8_ghgBmGv97sDLmlX6A" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="pin-organization-repo-update-form" data-target="pin-organization-repo.form" data-turbo="false" action="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/pin_organization_repo" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Av8nOyrKnYpt0vYJ5lUEALHhCnGeKJM7F6w5WPFr6ZMmfgKp1fez6dx_1_6_F2AW_2v3_RvR5n_5Rvp3B2q3Ew" autocomplete="off" />
             <div class="SelectMenu-modal">
               <header class="SelectMenu-header">
                 <span class="SelectMenu-title">Pin to… </span>
@@ -1692,7 +1692,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:396987143,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="8bc110b02504753fc7a4f95f9c45559ccf83f7d39f882ce2a1ecea14f34a9d91" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="97b43a8302628d9381534c0b68f4e44b593a0265f4e794b1a08668dafd927e57" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1704,7 +1704,7 @@
               Unwatch
             </span>
             <span
-              
+              hidden
               
               data-target="notifications-list-subscription-form.stopIgnoringButtonCopy"
             >
@@ -1714,7 +1714,7 @@
               Stop ignoring
             </span>
             <span
-              hidden
+              
               
               data-target="notifications-list-subscription-form.watchButtonCopy"
             >
@@ -1724,7 +1724,7 @@
               Watch
             </span>
           </span>
-            <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" data-turbo-replace="true" title="19" data-view-component="true" class="Counter">19</span>
+            <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" data-turbo-replace="true" title="3" data-view-component="true" class="Counter">3</span>
           <span class="dropdown-caret"></span>
 </summary>
         <details-menu
@@ -1744,9 +1744,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IHuHd1GzBbzLoUzVD5iTbVvVKTBNZ0vY1-VvQhnOdLXTFzsYHsbXTPXy8O0T-R-uvpo3LrruCjVQg96H9nhmag" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NEaJhhOoRlWLxmZRUo1EZbf8RtVB-9sSTTGGIKsCdpfHKjXpXN2UpbWV2mlO7MimUrNYy7Zymv_KVzflRLRkSA" autocomplete="off" />
 
-                <input type="hidden" name="repository_id" value="396987143">
+                <input type="hidden" name="repository_id" value="544082840">
 
                 <button
                   type="submit"
@@ -1754,7 +1754,7 @@
                   value="included"
                   class="SelectMenu-item flex-items-start"
                   role="menuitemradio"
-                  aria-checked="false"
+                  aria-checked="true"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
                   
                 >
@@ -1803,7 +1803,7 @@
                   value="ignore"
                   class="SelectMenu-item flex-items-start"
                   role="menuitemradio"
-                  aria-checked="true"
+                  aria-checked="false"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
                 >
                   <span class="f5">
@@ -1872,9 +1872,9 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="05hdmdqECf7JWVXDDHz05HudddFUA7zvR20-km7tZ04g9OH2lfHbDvcK6fsQHXgnntJrz6OK_QLAC49XgVt1kQ" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WC51CTsfDP8aBIKnqj9T7aXtTjs_eStJX4tAqPoakxOrQslmdGreDyRXPp-2Xt8uQKJQJcjwaqTY7fFtFayBzA" autocomplete="off" />
 
-              <input type="hidden" name="repository_id" value="396987143">
+              <input type="hidden" name="repository_id" value="544082840">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -2024,32 +2024,32 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:396987143,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="d06b7bae7fe2b86424c660753182bc4800aa30f145223d7d0880e3532d27646b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="afb7e73ebb7bbadd48a63be14591634f48c33ad57d2cb33adfdb2e19b8eb0273" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
-          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="37" data-view-component="true" class="Counter">37</span>
-</a>    <tool-tip for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation</tool-tip>
+          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="4" data-view-component="true" class="Counter">4</span>
+</a>    <tool-tip for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation</tool-tip>
 </div>
-      <details group_item="true" id="my-forks-menu-396987143" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
+      <details group_item="true" id="my-forks-menu-544082840" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/my_forks_menu_content?can_fork=true"
+      src="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/my_forks_menu_content?can_fork=true"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9e7c34">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ce0594">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-9e7c34"
+        id="filter-menu-ce0594"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2091,34 +2091,34 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container on d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="O03whLuNbHpZ1UPKMSZV5iXPFaSfZJu2M7DtjLtENl8reHWqaTcIpjbbBFoJXke1g_QrE5GDu1K5ieyVc52gAg" autocomplete="off" />
-          <input type="hidden" value="jnVhOs1LOxUBZcnzt1aXnuTm4sTwgB_lFAnZKk5o-6meQOQUH_FfyW5rjmOPLoXNQt3cc_5nPwGeMNgzhrFt9A" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yDpmmBV2ExUovXxSxjjVRsfwWwkV1byfAVYiDds74ZYjUqK0SCMEeUmoJ5fkjBZRnmNqndxLsUa-kmaeEVONWQ" autocomplete="off" />
+          <input type="hidden" value="fDvPz2myqJzbQ5rvkhpuJsExA5w5ZA1Tik5aC20hy9mXUwvjNOe_8LpWwSqwrq0xmKIyCPD6AIo1ih6Yp0mnFg" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:396987143,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="2cdd1c1c50c8d0d201995ab7f58e4bf4073dfc6e20be2809cc7d5b1585d264c5" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (162)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="cbb112bb41e357a283a71fcac5aac8818b59480d12ab113976adb25ee3f3d143" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (13)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
-</span>            <span id="repo-stars-counter-unstar" aria-label="162 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="162" data-view-component="true" class="Counter js-social-count">162</span>
-</button></form>        <details id="details-user-list-396987143" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>            <span id="repo-stars-counter-unstar" aria-label="13 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="13" data-view-component="true" class="Counter js-social-count">13</span>
+</button></form>        <details id="details-user-list-544082840" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/lists"
+      src="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-fd7c8b">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-867ecc">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-fd7c8b"
+        id="filter-menu-867ecc"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2139,33 +2139,33 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Cj-QlI0BpjPCdvjzbW5dSNoAhjI0qJGJ7F1JtMWwPp3_VagzCOrP1wP2tKxXYtookngYV0DvH6o91w8yFHyhKQ" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Vd2Fw9r9OPdwkG4kEQ5SyD-KyG-eJERznbtK7a5xIBq5IAu17mSc9lsCs_GgEI_KGHZh3MQ-5ZoKzeOVn_QRSg" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:396987143,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="f3638cbc601b4d7c3261292eb6be19d2d0c01c07cb75093899a9dcd43ea0a010" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (162)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="5322fc413f2ff7036ffb1ae05ce0b71b0184ba92bc78dc1760ec95ea8223d502" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (13)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
-</span>            <span id="repo-stars-counter-star" aria-label="162 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="162" data-view-component="true" class="Counter js-social-count">162</span>
-</button></form>        <details id="details-user-list-396987143" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>            <span id="repo-stars-counter-star" aria-label="13 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="13" data-view-component="true" class="Counter js-social-count">13</span>
+</button></form>        <details id="details-user-list-544082840" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/lists"
+      src="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-fd7c8b">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-867ecc">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-fd7c8b"
+        id="filter-menu-867ecc"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2201,7 +2201,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -2213,7 +2213,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -2225,7 +2225,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
@@ -2237,7 +2237,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -2249,7 +2249,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
@@ -2261,7 +2261,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="wiki-tab" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/wiki" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g w" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Wiki&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/wiki" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g w" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Wiki&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
@@ -2273,18 +2273,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
@@ -2296,7 +2296,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="settings-tab" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/settings" data-tab-item="i8settings-tab" data-selected-links="code_review_limits codespaces_repository_settings collaborators custom_tabs hooks integration_installations interaction_limits issue_template_editor key_links_settings notifications repo_actions_settings repo_announcements repo_branch_settings repo_keys_settings repo_pages_settings repo_rulesets repo_protected_tags_settings repo_settings reported_content repository_actions_settings_add_new_runner repository_actions_settings_general repository_actions_settings_runners repository_environments role_details secrets secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/settings" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Settings&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="settings-tab" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/settings" data-tab-item="i8settings-tab" data-selected-links="code_review_limits codespaces_repository_settings collaborators custom_tabs hooks integration_installations interaction_limits issue_template_editor key_links_settings notifications repo_actions_settings repo_announcements repo_branch_settings repo_keys_settings repo_pages_settings repo_rulesets repo_protected_tags_settings repo_settings reported_content repository_actions_settings_add_new_runner repository_actions_settings_general repository_actions_settings_runners repository_environments role_details secrets secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/settings" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Settings&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.429 1.525a6.593 6.593 0 011.142 0c.036.003.108.036.137.146l.289 1.105c.147.56.55.967.997 1.189.174.086.341.183.501.29.417.278.97.423 1.53.27l1.102-.303c.11-.03.175.016.195.046.219.31.41.641.573.989.014.031.022.11-.059.19l-.815.806c-.411.406-.562.957-.53 1.456a4.588 4.588 0 010 .582c-.032.499.119 1.05.53 1.456l.815.806c.08.08.073.159.059.19a6.494 6.494 0 01-.573.99c-.02.029-.086.074-.195.045l-1.103-.303c-.559-.153-1.112-.008-1.529.27-.16.107-.327.204-.5.29-.449.222-.851.628-.998 1.189l-.289 1.105c-.029.11-.101.143-.137.146a6.613 6.613 0 01-1.142 0c-.036-.003-.108-.037-.137-.146l-.289-1.105c-.147-.56-.55-.967-.997-1.189a4.502 4.502 0 01-.501-.29c-.417-.278-.97-.423-1.53-.27l-1.102.303c-.11.03-.175-.016-.195-.046a6.492 6.492 0 01-.573-.989c-.014-.031-.022-.11.059-.19l.815-.806c.411-.406.562-.957.53-1.456a4.587 4.587 0 010-.582c.032-.499-.119-1.05-.53-1.456l-.815-.806c-.08-.08-.073-.159-.059-.19a6.44 6.44 0 01.573-.99c.02-.029.086-.075.195-.045l1.103.303c.559.153 1.112.008 1.529-.27.16-.107.327-.204.5-.29.449-.222.851-.628.998-1.189l.289-1.105c.029-.11.101-.143.137-.146zM8 0c-.236 0-.47.01-.701.03-.743.065-1.29.615-1.458 1.261l-.29 1.106c-.017.066-.078.158-.211.224a5.994 5.994 0 00-.668.386c-.123.082-.233.09-.3.071L3.27 2.776c-.644-.177-1.392.02-1.82.63a7.977 7.977 0 00-.704 1.217c-.315.675-.111 1.422.363 1.891l.815.806c.05.048.098.147.088.294a6.084 6.084 0 000 .772c.01.147-.038.246-.088.294l-.815.806c-.474.469-.678 1.216-.363 1.891.2.428.436.835.704 1.218.428.609 1.176.806 1.82.63l1.103-.303c.066-.019.176-.011.299.071.213.143.436.272.668.386.133.066.194.158.212.224l.289 1.106c.169.646.715 1.196 1.458 1.26a8.094 8.094 0 001.402 0c.743-.064 1.29-.614 1.458-1.26l.29-1.106c.017-.066.078-.158.211-.224a5.98 5.98 0 00.668-.386c.123-.082.233-.09.3-.071l1.102.302c.644.177 1.392-.02 1.82-.63.268-.382.505-.789.704-1.217.315-.675.111-1.422-.364-1.891l-.814-.806c-.05-.048-.098-.147-.088-.294a6.1 6.1 0 000-.772c-.01-.147.039-.246.088-.294l.814-.806c.475-.469.679-1.216.364-1.891a7.992 7.992 0 00-.704-1.218c-.428-.609-1.176-.806-1.82-.63l-1.103.303c-.066.019-.176.011-.299-.071a5.991 5.991 0 00-.668-.386c-.133-.066-.194-.158-.212-.224L10.16 1.29C9.99.645 9.444.095 8.701.031A8.094 8.094 0 008 0zm1.5 8a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM11 8a3 3 0 11-6 0 3 3 0 016 0z"></path>
@@ -2318,39 +2318,39 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation">
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/issues" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/issues">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/issues" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/issues">
                   Issues
 </a>              </li>
               <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/pulls" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/pulls">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/pulls" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/pulls">
                   Pull requests
 </a>              </li>
               <li data-menu-item="i3actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/actions" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/actions">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/actions" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/actions">
                   Actions
 </a>              </li>
               <li data-menu-item="i4projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/projects" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/projects">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/projects" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/projects">
                   Projects
 </a>              </li>
               <li data-menu-item="i5wiki-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/wiki" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/wiki">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/wiki" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/wiki">
                   Wiki
 </a>              </li>
               <li data-menu-item="i6security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/security" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/security">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/security" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/security">
                   Security
 </a>              </li>
               <li data-menu-item="i7insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/pulse" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/pulse">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/pulse" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/pulse">
                   Insights
 </a>              </li>
               <li data-menu-item="i8settings-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="code_review_limits codespaces_repository_settings collaborators custom_tabs hooks integration_installations interaction_limits issue_template_editor key_links_settings notifications repo_actions_settings repo_announcements repo_branch_settings repo_keys_settings repo_pages_settings repo_rulesets repo_protected_tags_settings repo_settings reported_content repository_actions_settings_add_new_runner repository_actions_settings_general repository_actions_settings_runners repository_environments role_details secrets secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis /Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/settings" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/settings">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="code_review_limits codespaces_repository_settings collaborators custom_tabs hooks integration_installations interaction_limits issue_template_editor key_links_settings notifications repo_actions_settings repo_announcements repo_branch_settings repo_keys_settings repo_pages_settings repo_rulesets repo_protected_tags_settings repo_settings reported_content repository_actions_settings_add_new_runner repository_actions_settings_general repository_actions_settings_runners repository_environments role_details secrets secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis /Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/settings" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/settings">
                   Settings
 </a>              </li>
           </ul>
@@ -2384,7 +2384,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/51a4f4672f052d42dfca943d80fa981bc251a465/libraries/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2392,14 +2392,14 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:396987143,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="6b8ebb6cf9f24d0b05404ac5cb56c4606f550dc5794154884676961b5db46391">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="bca78cc8e230422d83912774bbbd43e0e76e70d75363449cede7cc5524b2044b">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>main</span>
+      <span class="css-truncate-target" data-menu-button>8204a94957</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -2443,12 +2443,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/refs"
+            query-endpoint="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/refs"
             can-create
-            cache-key="v0:1666185648.3915079"
-            current-committish="bWFpbg=="
+            cache-key="v0:1673410619.378264"
+            current-committish="ODIwNGE5NDk1N2ZmMWViMmQ2MGFjOThiZDY5ZmI4N2FhYzhiYWRiZA=="
             default-branch="bWFpbg=="
-            name-with-owner="V2VzdGVybi1PQzItTGFiL1BXUEFFLUNvbmNlcHQtRHJpZnQtRGV0ZWN0aW9uLWFuZC1BZGFwdGF0aW9u"
+            name-with-owner="V2VzdGVybi1PQzItTGFiL01TQU5BLU9ubGluZS1EYXRhLVN0cmVhbS1BbmFseXRpY3MtQW5kLUNvbmNlcHQtRHJpZnQtQWRhcHRhdGlvbg=="
             prefetch-on-mouseover
           >
 
@@ -2458,12 +2458,12 @@
 
               <template data-target="ref-selector.noMatchTemplate">
     <create-repo-from-selector
-      check-tag-name-exists-path="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/branches/check_tag_name_exists"
+      check-tag-name-exists-path="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/branches/check_tag_name_exists"
     >
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gaSeRzdCGW2hBuO4rX7NbJ556RqBx4rfW3VzxBseY1DpgaJGe4Vn5QJVU4hG7eJhN7GogzYLuSP7tI7c34w0Zw" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DMYkb9-vyaIy3UzrLY0DyCLDAM92gdDpNgVNy0bhA6TNtNdBXmJbnIQjNxI7A4jojenBbJ2HBCdWVW4J9GfOaw" />
         <input data-target="create-repo-from-selector.refName" type="hidden" name="name" value="{{ refName }}">
-        <input type="hidden" name="branch"  value="main">
-        <input type="hidden" name="path_binary" value="bGlicmFyaWVzL1JFQURNRS5tZA==">
+        <input type="hidden" name="branch"  value="8204a94957ff1eb2d60ac98bd69fb87aac8badbd">
+        <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
 
         <button
           class="SelectMenu-item wb-break-word"
@@ -2471,14 +2471,14 @@
           role="menuitem"
           data-index="{{ index }}"
           data-action="click:create-repo-from-selector#createBranch"
-          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:396987143,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="49a62f7b19295446fcb0f454b16a62a7a35ffaec9b2ca8fcde5d44521a265f4c">
+          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:544082840,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="b8d628299cb9a72f5f9ba27c0c07966f4fb5ae76f500657756db3adee004e294">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
           <div>
             <span class="text-bold">Create branch: {{ refName }}</span>
-            <span class="color-fg-muted">from ‘main’</span>
-            <input type="hidden" value="kkMpuKAYWvtOWaFdi4ElNbdLOxSFRb4-dGfFUmDjLVTS0uGrtz1uiT05ICIkdbFmzwlNPcdi477fSzBPv21d8Q" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
+            <span class="color-fg-muted">from ‘8204a94’</span>
+            <input type="hidden" value="sisiz9mnvGXqQQe4d38Qx-64Gev8NloM58qo7TjtFY9NAaLF1QU-YpjuFPlm0uGNGYE5EtR2CdppJoX3TN29zw" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
           </div>
         </button>
 </form>    </create-repo-from-selector>
@@ -2497,7 +2497,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/{{ urlEncodedRefName }}/libraries/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2507,7 +2507,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2521,11 +2521,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/refs"
-            cache-key="v0:1666185648.3915079"
-            current-committish="bWFpbg=="
+            query-endpoint="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/refs"
+            cache-key="v0:1673410619.378264"
+            current-committish="ODIwNGE5NDk1N2ZmMWViMmQ2MGFjOThiZDY5ZmI4N2FhYzhiYWRiZA=="
             default-branch="bWFpbg=="
-            name-with-owner="V2VzdGVybi1PQzItTGFiL1BXUEFFLUNvbmNlcHQtRHJpZnQtRGV0ZWN0aW9uLWFuZC1BZGFwdGF0aW9u"
+            name-with-owner="V2VzdGVybi1PQzItTGFiL01TQU5BLU9ubGluZS1EYXRhLVN0cmVhbS1BbmFseXRpY3MtQW5kLUNvbmNlcHQtRHJpZnQtQWRhcHRhdGlvbg=="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2539,7 +2539,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/{{ urlEncodedRefName }}/libraries/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2557,7 +2557,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2600,9 +2600,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation"><span>PWPAE-Concept-Drift-Detection-and-Adaptation</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/tree/main/libraries"><span>libraries</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/tree/8204a94957ff1eb2d60ac98bd69fb87aac8badbd"><span>MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
   </h2>
-    <a href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/find/8204a94957ff1eb2d60ac98bd69fb87aac8badbd" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2611,7 +2611,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:396987143,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="87f6d4687d456c8cde12d211083681d7d3437955ce3d14c11f687ff27bbcb8f3" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="6bd2774d0ae8fc512da3d325c391700f8c5961385ea9091fe3897ed3cf3e421f" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/find/8204a94957ff1eb2d60ac98bd69fb87aac8badbd">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2623,13 +2623,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="libraries/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/51a4f4672f052d42dfca943d80fa981bc251a465/libraries/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2658,10 +2658,10 @@
   
 </div></div>
 
-    <include-fragment src="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/spoofed_commit_check/51a4f4672f052d42dfca943d80fa981bc251a465" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/spoofed_commit_check/8204a94957ff1eb2d60ac98bd69fb87aac8badbd" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/contributors/main/libraries/README.md" class="commit-loader">
+  <include-fragment src="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/contributors/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2684,62 +2684,112 @@
 
 
 
-  
+    <readme-toc>
+
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    
+    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    style="position: sticky; z-index: 1;"
   >
+
+      <details
+  data-target="readme-toc.trigger"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}"
+  data-menu-hydro-click-hmac="ff2fef9645da859fa16ba4335a61d9b977b3ab98d5c7a09e7a4d88dc6c583272"
+  class="dropdown details-reset details-overlay"
+>
+  <summary
+    class="btn btn-octicon m-0 mr-2 p-2"
+    aria-haspopup="true"
+    aria-label="Table of Contents">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
+    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+</svg>
+  </summary>
+
+
+  <details-menu class="SelectMenu" role="menu">
+    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
+
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="toc-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter headings"
+            aria-label="Filter headings">
+        </div>
+
+      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#msana-online-data-stream-analytics-and-concept-drift-adaptation">MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#paper-link">Paper Link</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#abstract-of-the-paper">Abstract of The Paper</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#concept-drift">Concept Drift</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#implementation">Implementation</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#automl-pipeline-and-procedures">AutoML Pipeline and Procedures</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#online-learningconcept-drift-adaptation-algorithms">Online Learning/Concept Drift Adaptation Algorithms</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#drift-detection-algorithms">Drift Detection Algorithms</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#dataset">Dataset</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#code">Code</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#requirements--libraries">Requirements &amp; Libraries</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#contact-info">Contact-Info</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="4a86dfb1a277c0774901fd6ceec32bfe17095f50b9333222f277b18b86ef4ba4" href="#citation">Citation</a>
+      </div>
+    </div>
+  </details-menu>
+</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      2 lines (2 sloc)
+      97 lines (78 sloc)
       <span class="file-info-divider"></span>
-    212 Bytes
+    6.48 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-      <a href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md?plain=1" data-permalink-href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/51a4f4672f052d42dfca943d80fa981bc251a465/libraries/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+      <a href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n   btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
-</a>      <a href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md" data-permalink-href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/51a4f4672f052d42dfca943d80fa981bc251a465/libraries/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>      <a href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected  btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
 </svg>
 </a>  </div>
 
 
     <div class="BtnGroup">
-        <a data-permalink-href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/raw/51a4f4672f052d42dfca943d80fa981bc251a465/libraries/README.md" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/raw/main/libraries/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blame/51a4f4672f052d42dfca943d80fa981bc251a465/libraries/README.md" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blame/main/libraries/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/raw/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Raw
+</a>          <a href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blame/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/edit/main/libraries/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="p03dG9tT_i4vOR-Tup1CNaksjTYI1GZifz9HYzV7l_cZFYY-G9D7M-Tqz75g0RDXBENC-83ApZE5HVJcChRXmw" autocomplete="off" />
-      <button title="Edit this file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/edit/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iIpTK9rc_8rgaMH0OR_O06ElkABZP0emWDqN9gUlR2lQepJGEBtVV4E0taVgdGZpU-3Enfstjej1MvJUATA35w" autocomplete="off" />
+      <button disabled="disabled" title="You must be on a branch to make or propose changes to this file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:396987143,&quot;actor_id&quot;:24592238,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:544082840,&quot;actor_id&quot;:24592238,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/edit/main/libraries/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="IcUv9FeachTH1GcF6PYlYcOR9RCQILG-AccFvAsm7KyfnXTRlxl3CQwHtygyuneDbv463VU0ck1H5RCDNEkswA" autocomplete="off" />
-              <button title="Edit this file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/edit/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="swchAVXKyrcNk8MnuD9hpeGgY7fZJUUcrTykpfAU-CBr9-Bsnw1gKmzPt3bhVMkfE2g3Kns3j1IANNsH9AGIrg" autocomplete="off" />
+              <button disabled="disabled" title="You must be on a branch to make or propose changes to this file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
-            <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:396987143,&quot;actor_id&quot;:24592238,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+            <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:544082840,&quot;actor_id&quot;:24592238,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation?branch=main&amp;filepath=libraries%2FREADME.md" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
-              Open in GitHub Desktop
-</a>        </div>
+              <button aria-label="You must be on a branch to open this file in GitHub Desktop" data-platforms="windows,mac" data-test-selector="github-desktop-disabled-button" disabled="disabled" type="submit" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform btn-invisible btn text-normal">    Open in GitHub Desktop
+</button>        </div>
       </div>
     </div>
   </details>
@@ -2748,10 +2798,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/raw/51a4f4672f052d42dfca943d80fa981bc251a465/libraries/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/raw/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:396987143,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="3349d87a9043a0e8d97598c3a648fcff21d5d0d8f438a497c1485da61e55d452" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="edc0f46eb967651c0b8fe2e2034ff224ef5d98a46e7d95f4757bcd5909451f41" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2776,24 +2826,23 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/delete/main/libraries/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="da00fSHluFIn-Zx5T4baw1jFihAv-Bz-mHtR-ZBl8w96rsh-1jMRp0itOsCCoAJ9HdGll8hRENY_UwMWVUQgDw" />
-            <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Delete this file" data-disable-with>
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
+          <button class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw" disabled
+            aria-label="You must be on a branch to make or propose changes to this file" type="button">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
 </svg>
-            </button>
-</form>    </div>
+          </button>
+    </div>
   </div>
 
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary
-          class="js-blob-dropdown-click btn-octicon"
+          class="js-blob-dropdown-click btn-octicon p-2"
           aria-haspopup="true"
           aria-label="possible actions"
           data-test-selector="small-screen-more-options"
-          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:396987143,&quot;actor_id&quot;:24592238,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
+          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:544082840,&quot;actor_id&quot;:24592238,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:true}}"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
@@ -2802,22 +2851,17 @@
 
         <ul class="dropdown-menu dropdown-menu-sw" style="width: 175px">
             <li>
-                <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
-                   data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation?branch=main&amp;filepath=libraries%2FREADME.md">
-                  Open with Desktop
-                </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/raw/main/libraries/README.md">
+            <a class="dropdown-item" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/raw/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/raw/main/libraries/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/raw/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:396987143,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blob/main/libraries/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="3349d87a9043a0e8d97598c3a648fcff21d5d0d8f438a497c1485da61e55d452">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:544082840,&quot;originating_url&quot;:&quot;https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md&quot;,&quot;user_id&quot;:24592238}}" data-hydro-click-hmac="edc0f46eb967651c0b8fe2e2034ff224ef5d98a46e7d95f4757bcd5909451f41">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2840,21 +2884,11 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/blame/main/libraries/README.md">
+              <a class="dropdown-item" href="/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blame/8204a94957ff1eb2d60ac98bd69fb87aac8badbd/README.md">
                 View blame
               </a>
             </li>
 
-              <li class="dropdown-divider" role="none"></li>
-              <li>
-                <a class="dropdown-item" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/edit/main/libraries/README.md">Edit file</a>
-              </li>
-                <li>
-                  <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:396987143,&quot;actor_id&quot;:24592238,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
-                </li>
-              <li>
-                <a class="dropdown-item menu-item-danger" href="/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation/delete/main/libraries/README.md">Delete file</a>
-              </li>
         </ul>
       </details>
     </div>
@@ -2862,13 +2896,137 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto">This folder contains the old version of the river library (0.1.0) that were used to run the code.<br>
-If you code has any library-related issues, you can please replace your river library folder with this version.</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-msana-online-data-stream-analytics-and-concept-drift-adaptation" class="anchor" aria-hidden="true" href="#msana-online-data-stream-analytics-and-concept-drift-adaptation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation</h1>
+<p dir="auto">This repository contains the code for the paper entitled "<strong><a href="https://arxiv.org/pdf/2210.01985.pdf" rel="nofollow">A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems</a></strong>" published in <strong>IEEE Transactions on Industrial Informatics</strong> (Q1, IF: 11.648), doi: <a href="https://ieeexplore.ieee.org/document/9910406" rel="nofollow">10.1109/TII.2022.3212003</a>.<br>
+Authors: Li Yang and Abdallah Shami<br>
+Organization: The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University</p>
+<p dir="auto">In this work, we propose a comprehensive online learning framework for data stream analytics and concept drift adaptation in dynamic environments.<br>
+Two other <strong>tutorial code</strong> for <strong>concept drift, online machine learning, and data stream analytics</strong> can be found in: <a href="https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation">PWPAE-Concept-Drift-Detection-and-Adaptation</a> and <a href="https://github.com/Western-OC2-Lab/OASW-Concept-Drift-Detection-and-Adaptation">OASW-Concept-Drift-Detection-and-Adaptation</a></p>
+<h2 dir="auto"><a id="user-content-paper-link" class="anchor" aria-hidden="true" href="#paper-link"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Paper Link</h2>
+<p dir="auto"><a href="https://arxiv.org/pdf/2210.01985.pdf" rel="nofollow">Open access version on arXiv</a><br>
+<a href="https://ieeexplore.ieee.org/document/9910406" rel="nofollow">Published version on IEEE</a></p>
+<h2 dir="auto"><a id="user-content-abstract-of-the-paper" class="anchor" aria-hidden="true" href="#abstract-of-the-paper"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Abstract of The Paper</h2>
+<p dir="auto">Industry 5.0 aims at maximizing the collaboration between humans and machines. Machines are capable of automating repetitive jobs, while humans handle creative tasks. As a critical component of Industrial Internet of Things (IIoT) systems for service delivery, network data stream analytics often encounter concept drift issues due to dynamic IIoT environments, causing performance degradation and automation difficulties. In this paper, we propose a novel Multi-Stage Automated Network Analytics (MSANA) framework for concept drift adaptation in IIoT systems, consisting of dynamic data pre-processing, the proposed Drift-based Dynamic Feature Selection (DD-FS) method, dynamic model learning &amp; selection, and the proposed Window-based Performance Weighted Probability Averaging Ensemble (W-PWPAE) model. It is a complete automated data stream analytics framework that enables automatic, effective, and efficient data analytics for IIoT systems in Industry 5.0. Experimental results on two public IoT datasets demonstrate that the proposed framework outperforms state-of-the-art methods for IIoT data stream analytics.</p>
+<h2 dir="auto"><a id="user-content-concept-drift" class="anchor" aria-hidden="true" href="#concept-drift"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Concept Drift</h2>
+<p dir="auto">In non-stationary and dynamical environments, such as IoT environments, the distribution of input data often changes over time, known as concept drift. The occurrence of concept drift will result in the performance degradation of the current trained data analytics model. Traditional offline machine learning (ML) models cannot deal with concept drift, making it necessary to develop online adaptive analytics models that can adapt to the predictable and unpredictable changes in data streams.</p>
+<p dir="auto">To address concept drift, effective methods should be able to detect concept drift and adapt to the changes accordingly. Therefore, concept drift detection and adaptation are the two major steps for online learning on data streams.</p>
+<h2 dir="auto"><a id="user-content-implementation" class="anchor" aria-hidden="true" href="#implementation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Implementation</h2>
+<h3 dir="auto"><a id="user-content-automl-pipeline-and-procedures" class="anchor" aria-hidden="true" href="#automl-pipeline-and-procedures"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>AutoML Pipeline and Procedures</h3>
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/main/System_Overview.jpg"><img src="https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/raw/main/System_Overview.jpg" width="600" style="max-width: 100%;"></a>
+</p>
+<ol dir="auto">
+<li>Dynamic Data Pre-Processing
+<ul dir="auto">
+<li>Data Balancing</li>
+<li>Data Normalization</li>
+</ul>
+</li>
+<li>Dynamic Feature Engineering
+<ul dir="auto">
+<li>Drift-based Dynamic Feature Selection</li>
+</ul>
+</li>
+<li>Based Model Learning and Selection
+<ul dir="auto">
+<li>Online Base Model Learning</li>
+<li>Dynamic Model Selection</li>
+</ul>
+</li>
+<li>Online Ensemble Model Development
+<ul dir="auto">
+<li>Online Model Ensemble</li>
+<li>Concept Drift Detection</li>
+</ul>
+</li>
+</ol>
+<h3 dir="auto"><a id="user-content-online-learningconcept-drift-adaptation-algorithms" class="anchor" aria-hidden="true" href="#online-learningconcept-drift-adaptation-algorithms"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Online Learning/Concept Drift Adaptation Algorithms</h3>
+<ul dir="auto">
+<li>Adaptive Random Forest (ARF) with ADWIN drift detector (ARF-ADWIN)</li>
+<li>Adaptive Random Forest (ARF) with EDDM drift detector (ARF-EDDM)</li>
+<li>Streaming Random Patches (SRP)</li>
+<li>Extremely Fast Decision Tree (EFDT)</li>
+<li>K-Nearest Neighbors (KNN) classifier with ADWIN change detector (KNN-ADWIN)</li>
+<li>Self Adapting Memory (SAM) KNN model (SAM-KNN)</li>
+<li>Online Passive-Aggressive (OPA)</li>
+<li>Leveraging Bagging (LB)</li>
+<li>Performance Weighted Probability Averaging Ensemble (PWPAE)
+<ul dir="auto">
+<li>Proposed in the <a href="https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation">previous work</a></li>
+</ul>
+</li>
+<li>Window-based Performance Weighted Probability Averaging Ensemble (W-PWPAE)
+<ul dir="auto">
+<li>Proposed in this work</li>
+</ul>
+</li>
+</ul>
+<h3 dir="auto"><a id="user-content-drift-detection-algorithms" class="anchor" aria-hidden="true" href="#drift-detection-algorithms"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Drift Detection Algorithms</h3>
+<ul dir="auto">
+<li>Adaptive Windowing (ADWIN)</li>
+<li>Early Drift Detection Method (EDDM)</li>
+</ul>
+<h3 dir="auto"><a id="user-content-dataset" class="anchor" aria-hidden="true" href="#dataset"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Dataset</h3>
+<ol dir="auto">
+<li>
+<p dir="auto">CICIDS2017 dataset, a popular network traffic dataset for intrusion detection problems</p>
+<ul dir="auto">
+<li>Publicly available at: <a href="https://www.unb.ca/cic/datasets/ids-2017.html" rel="nofollow">https://www.unb.ca/cic/datasets/ids-2017.html</a></li>
+</ul>
+</li>
+<li>
+<p dir="auto">IoTID20 dataset, a novel IoT botnet dataset</p>
+<ul dir="auto">
+<li>Publicly available at: <a href="https://sites.google.com/view/iot-network-intrusion-dataset/home" rel="nofollow">https://sites.google.com/view/iot-network-intrusion-dataset/home</a></li>
+</ul>
+</li>
+</ol>
+<h3 dir="auto"><a id="user-content-code" class="anchor" aria-hidden="true" href="#code"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Code</h3>
+<ul dir="auto">
+<li><a href="https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/main/TII-MSANA-CICIDS2017.ipynb">TII-MSANA-CICIDS2017.ipynb</a>: code for the sampled CICIDS2017 dataset.</li>
+<li><a href="https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation/blob/main/TII-MSANA-IoTID20.ipynb">TII-MSANA-IoTID20.ipynb</a>: code for the sampled IoTID20 dataset.</li>
+</ul>
+<h3 dir="auto"><a id="user-content-requirements--libraries" class="anchor" aria-hidden="true" href="#requirements--libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Requirements &amp; Libraries</h3>
+<ul dir="auto">
+<li>Python 3.6+</li>
+<li><a href="https://scikit-learn.org/stable/" rel="nofollow">Scikit-learn</a></li>
+<li><a href="https://riverml.xyz/dev/" rel="nofollow">River</a></li>
+</ul>
+<h2 dir="auto"><a id="user-content-contact-info" class="anchor" aria-hidden="true" href="#contact-info"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contact-Info</h2>
+<p dir="auto">Please feel free to contact me for any questions or cooperation opportunities. I'd be happy to help.</p>
+<ul dir="auto">
+<li>Email: <a href="mailto:liyanghart@gmail.com">liyanghart@gmail.com</a></li>
+<li>GitHub: <a href="https://github.com/LiYangHart">LiYangHart</a> and <a href="https://github.com/Western-OC2-Lab/">Western OC2 Lab</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/li-yang-phd-65a190176/" rel="nofollow">Li Yang</a></li>
+<li>Google Scholar: <a href="https://scholar.google.com.eg/citations?user=XEfM7bIAAAAJ&amp;hl=en" rel="nofollow">Li Yang</a> and <a href="https://scholar.google.com.eg/citations?user=oiebNboAAAAJ&amp;hl=en" rel="nofollow">OC2 Lab</a></li>
+</ul>
+<h2 dir="auto"><a id="user-content-citation" class="anchor" aria-hidden="true" href="#citation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Citation</h2>
+<p dir="auto">If you find this repository useful in your research, please cite this article as:</p>
+<p dir="auto">L. Yang and A. Shami, “A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems,” <em>IEEE Transactions on Industrial Informatics</em>, vol. 19, no. 2, pp. 2107-2116, Feb. 2023, doi: 10.1109/TII.2022.3212003.</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@ARTICLE{9910406,
+  author={Yang, Li and Shami, Abdallah},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems}, 
+  year={2023},
+  volume={19},
+  number={2},
+  pages={2107-2116},
+  doi={10.1109/TII.2022.3212003}}"><pre class="notranslate"><code>@ARTICLE{9910406,
+  author={Yang, Li and Shami, Abdallah},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={A Multi-Stage Automated Online Network Data Stream Analytics Framework for IIoT Systems}, 
+  year={2023},
+  volume={19},
+  number={2},
+  pages={2107-2116},
+  doi={10.1109/TII.2022.3212003}}
+</code></pre></div>
 </article>
   </div>
 
     </div>
 
+  </readme-toc>
 
   
 
